@@ -25,7 +25,7 @@ def get_data(df):
         X.append(x)
         Y.append(y)
     return np.array(X), np.array(Y)
-
+dfkjkdfjbdkbj
 
 def featurize(apartment):
     """
